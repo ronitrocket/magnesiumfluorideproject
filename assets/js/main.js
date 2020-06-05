@@ -81,6 +81,10 @@ NOTE: This is the custom jQuery file for the template
                 startDelay: 3000,
                 loop: true,
                 shuffle: false,
+                smartBackspace: true,
+                showCursor: true,
+                cursorChar: '|',
+                autoInsertCss: true,
             });
         });
         
