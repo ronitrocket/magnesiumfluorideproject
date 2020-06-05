@@ -74,7 +74,7 @@ NOTE: This is the custom jQuery file for the template
         var subscript = "2"
         $(function() {
             element.typed({
-                strings: ["^5000 Formula: MgF" + subscript.sub(), "^5000 Magnesium has atomic number of 12, Fluorine is 9.", "The atomic mass of the compound is 43.", "The density of this compound is 3.15 g/cm3.", "Solubility is 0.012 g/100 mL", "Melting point is 1,263*C.", "Boiling point is 2,260*C.", "Solid at room temperature.", "Color is white.", "Not very lustrous, it looks only a little bit shiny.", "Has some level of reactivity."],
+                strings: ["Formula: MgF" + subscript.sub(), "Magnesium has atomic number of 12, Fluorine is 9.", "The atomic mass of the compound is 43.", "The density of this compound is 3.15 g/cm3.", "Solubility is 0.012 g/100 mL", "Melting point is 1,263*C.", "Boiling point is 2,260*C.", "Solid at room temperature.", "Color is white.", "Not very lustrous, it looks only a little bit shiny.", "Has some level of reactivity."],
                 typeSpeed: 250,
                 loop: true,
                 shuffle: false,
